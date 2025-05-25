@@ -21,4 +21,4 @@ A lightweight WordPress plugin that allows admins to upload a custom `index.html
 
 1. Download or clone the plugin:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/custom-homepage-uploader.git
+   git clone https://github.com/Appdwn/custom-homepage-uploader.git
